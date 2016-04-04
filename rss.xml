@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Munch inDesign]]></title>
         <description><![CDATA[Munch inDesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/munch-indesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 05:12:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 05:42:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/munch-indesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f8aa07-2454-4484-a9e6-19183829ccd0.jpg">]]></description>
+            <link>https://thegrid.ai/munch-indesign/2016-zolb/index.html</link>
+            <guid isPermaLink="false">f13d883b-490b-4e26-9887-2b4219ca99a1</guid>
+            <pubDate>Mon, 04 Apr 2016 05:42:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2641174e-7f7f-4b8f-b59b-feafea7b057c.jpg">]]></description>
-            <link>undefinedget-started/index.html</link>
+            <link>https://thegrid.ai/munch-indesign/get-started/index.html</link>
             <guid isPermaLink="false">b91f5838-2368-41a3-a124-7cab5a2e708d</guid>
             <pubDate>Mon, 04 Apr 2016 05:12:22 GMT</pubDate>
         </item>
