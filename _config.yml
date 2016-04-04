@@ -1,8 +1,8 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -13,28 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3853047
   brandStrength: 0
   lightness: 0.6020009
   brandColors:
-    - '#898987'
-    - '#BCBEBD'
-    - '#151516'
-    - '#319099'
-    - '#F2EB7F'
+    - '#F0FCFD'
+    - '#889091'
+    - '#C6CED8'
+    - '#1F2F42'
+    - '#B5D991'
   rhythmicContrast: 0.9186217
 typography_spectrum: 0.5125448
 layout_spectrum: 0.6774194
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Munch inDesign
