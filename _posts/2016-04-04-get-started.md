@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get started..........
-datePublished: '2016-04-04T05:12:22.021Z'
-dateModified: '2016-04-04T05:11:51.305Z'
+datePublished: '2016-04-04T07:19:34.861Z'
+dateModified: '2016-04-04T05:33:50.127Z'
 title: ''
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-04-04-get-started.md
 published: true
 url: get-started/index.html
