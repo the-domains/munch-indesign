@@ -1,4 +1,8 @@
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Munch inDesign
 opengraph:
   image: null
   type: null
@@ -28,13 +32,9 @@ color:
     - '#285e6a'
     - '#3d8b8d'
   rhythmicContrast: 1
+layout_spectrum: 1
 cta:
   version: null
   bucket: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.50894
-name: Munch inDesign
+favicon: null
